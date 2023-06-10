@@ -1,0 +1,5 @@
+This folder includes source code Files for Slave and Master for Triger Mechanism of the tanks.
+Master Code should be feeded in arduino nano inside the Remote Control to send command to triger of the tank.
+Slave Code shouls be feede in arduino nano present inside the tank which receives commands from the Master.
+
+Automatic pairing of Bluetooth module will take 5 to 10 second. 
